@@ -1,0 +1,8 @@
+node_modules
+
+/.cache
+/public/build
+.env
+/build
+/src/styles/tailwind.css
+*.generated.ts
